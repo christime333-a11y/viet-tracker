@@ -1,0 +1,57 @@
+# Put this file in your repository at:  .github/workflows/viet-alerts.yml
+# Runs viet_alerts.py on GitHub's servers every 15 minutes. Most runs only read
+# IkaTracker's small server list; the big map is read after each fresh scan.
+# Uses the VIET_WEBHOOK_URL secret if you add one (to post in a different channel),
+# otherwise the DISCORD_WEBHOOK_URL secret you already have.
+
+name: VIET alerts
+
+on:
+  schedule:
+    - cron: "3,18,33,48 * * * *"   # every 15 min, offset from the inactive alerts
+  workflow_dispatch:                # adds a "Run workflow" button on the Actions tab
+    inputs:
+      test:
+        description: "Only send a test alert"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write                   # lets the job save what it has already seen
+
+concurrency:
+  group: viet-alerts                # never run two checks at once
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.ref_name }}   # newest commit, so the saved state is never stale
+
+      - name: Check IkaTracker for VIET changes
+        env:
+          VIET_WEBHOOK_URL: ${{ secrets.VIET_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python3 viet_alerts.py ${{ inputs.test && '--test' || '--once' }}
+
+      - name: Save what was seen
+        if: ${{ !cancelled() && !inputs.test }}
+        run: |
+          if [ -n "$(git status --porcelain -- 'viet_state_*.json')" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+            git add -- 'viet_state_*.json'
+            git commit -m "Update VIET state"
+            for attempt in 1 2 3; do
+              if git pull --rebase --quiet && git push; then
+                exit 0
+              fi
+              sleep $((attempt * 5))
+            done
+            exit 1
+          else
+            echo "Nothing new to save."
+          fi
