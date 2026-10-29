@@ -81,7 +81,7 @@
   [
    "Age of Empires",
    "Macedonian",
-   22,
+   23,
    "407217"
   ],
   [
@@ -2138,6 +2138,18 @@
   ],
   [
    "HIS",
+   "Luu Huynh 6",
+   10,
+   "406880"
+  ],
+  [
+   "HIS",
+   "Luu Huynh 7",
+   5,
+   "406880"
+  ],
+  [
+   "HIS",
    "NHO 1",
    30,
    "406875"
@@ -2147,18 +2159,6 @@
    "NHO 2",
    31,
    "406875"
-  ],
-  [
-   "HIS",
-   "Polis",
-   5,
-   "406880"
-  ],
-  [
-   "HIS",
-   "Polis",
-   10,
-   "406880"
   ],
   [
    "HOANG   LONG",
@@ -2594,7 +2594,7 @@
   ],
   [
    "Hercules VN",
-   "Ares Emb AT0",
+   "Ares AT0",
    35,
    "407209"
   ],
@@ -2606,25 +2606,25 @@
   ],
   [
    "Hercules VN",
-   "Athena Bma T0",
+   "Athena Bma T",
    35,
    "407209"
   ],
   [
    "Hercules VN",
-   "Demeter Wor A",
+   "Demeter Wor AT0",
    35,
    "407209"
   ],
   [
    "Hercules VN",
-   "Hades T0",
+   "Hades Emb T",
    34,
    "407209"
   ],
   [
    "Hercules VN",
-   "Hephaestus AT0",
+   "Hephaestus AT",
    35,
    "407209"
   ],
@@ -2648,7 +2648,7 @@
   ],
   [
    "Hercules VN",
-   "Poseidon Port",
+   "PoseidonPort T0",
    35,
    "407209"
   ],
@@ -4407,7 +4407,7 @@
   [
    "Midu",
    "Wine٥",
-   21,
+   22,
    "409431"
   ],
   [
@@ -4857,7 +4857,7 @@
   [
    "OnePiece",
    "11 Da2 y G",
-   24,
+   25,
    "408455"
   ],
   [
@@ -4875,13 +4875,13 @@
   [
    "OnePiece",
    "11 PL ca xy",
-   22,
+   23,
    "408465"
   ],
   [
    "OnePiece",
    "11 S1 BM",
-   22,
+   23,
    "408447"
   ],
   [
@@ -4959,7 +4959,7 @@
   [
    "PANASONIC",
    "PA_Hades",
-   31,
+   32,
    "408008"
   ],
   [
@@ -5763,7 +5763,7 @@
   [
    "Shindzz",
    "LE DA2 C",
-   32,
+   33,
    "406732"
   ],
   [
@@ -6889,6 +6889,12 @@
    "409408"
   ],
   [
+   "Tugenda",
+   "Polis",
+   1,
+   "409059"
+  ],
+  [
    "USA",
    "U_Crystal ca xy",
    19,
@@ -7305,7 +7311,7 @@
   [
    "VietNam Moutain",
    "Hoang Lien son",
-   31,
+   32,
    "408319"
   ],
   [
@@ -8445,7 +8451,7 @@
   [
    "ioe",
    "9 Nho2 xb",
-   15,
+   16,
    "408457"
   ],
   [
@@ -9093,7 +9099,7 @@
   [
    "thancam0",
    "Lo Phale",
-   32,
+   33,
    "407408"
   ],
   [
@@ -9553,6 +9559,7 @@
   "405563",
   "405592",
   "405649",
+  "405698",
   "405966",
   "405968",
   "406022",
@@ -11381,6 +11388,14 @@
    "wine",
    35
   ],
+  "409059": [
+   "Lissaos",
+   28,
+   12,
+   3,
+   "sulfur",
+   3
+  ],
   "409077": [
    "Dyneuos",
    24,
@@ -11614,7 +11629,7 @@
    35
   ]
  },
- "map_read": 1793243730,
+ "map_read": 1793309926,
  "players": [
   "A34",
   "Age of Empires",
@@ -11771,7 +11786,7 @@
   "tuphuongcan",
   "viet hong"
  ],
- "scan_seen": 1793241570,
+ "scan_seen": 1793308006,
  "seeded": true,
  "world": "Theseus"
 }
