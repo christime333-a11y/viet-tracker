@@ -1291,48 +1291,6 @@
    "407822"
   ],
   [
-   "Dragon King",
-   "Dragon TD",
-   12,
-   "407398"
-  ],
-  [
-   "Dragon King",
-   "Polis",
-   1,
-   "408018"
-  ],
-  [
-   "Dragon King",
-   "Polis",
-   1,
-   "408018"
-  ],
-  [
-   "Dragon King",
-   "Polis",
-   1,
-   "408018"
-  ],
-  [
-   "Dragon King",
-   "Polis",
-   1,
-   "408018"
-  ],
-  [
-   "Dragon King",
-   "Polis",
-   1,
-   "408073"
-  ],
-  [
-   "Dragon King",
-   "Polis",
-   1,
-   "408073"
-  ],
-  [
    "Eaglee",
    "Eagle City",
    12,
@@ -1491,7 +1449,7 @@
   [
    "FPT",
    "_S2_",
-   5,
+   8,
    "407851"
   ],
   [
@@ -2145,7 +2103,7 @@
   [
    "HIS",
    "LUU HUYNH 6",
-   10,
+   12,
    "406880"
   ],
   [
@@ -4329,13 +4287,13 @@
   [
    "Midu",
    "Wine٥",
-   28,
+   29,
    "409431"
   ],
   [
    "Mini Achilles",
    "Daaa-Kholo",
-   31,
+   32,
    "404386"
   ],
   [
@@ -10007,7 +9965,7 @@
    8,
    39,
    "marble",
-   35
+   36
   ],
   "406595": [
    "Sairdeios",
@@ -10309,7 +10267,7 @@
    "Snyvuos",
    8,
    28,
-   34,
+   35,
    "marble",
    30
   ],
@@ -10319,7 +10277,7 @@
    29,
    40,
    "sulfur",
-   32
+   33
   ],
   "407217": [
    "Ashutia",
@@ -11349,7 +11307,7 @@
    "Zumoos",
    24,
    35,
-   32,
+   33,
    "wine",
    21
   ],
@@ -11530,7 +11488,7 @@
    35
   ]
  },
- "map_read": 1794090740,
+ "map_read": 1794149968,
  "players": [
   "A34",
   "Age of Empires",
@@ -11554,7 +11512,6 @@
   "CuonghaB",
   "Daikin048",
   "Data",
-  "Dragon King",
   "Eaglee",
   "Emerald",
   "FPT",
@@ -11686,7 +11643,7 @@
   "tuphuongcan",
   "viet hong"
  ],
- "scan_seen": 1794079940,
+ "scan_seen": 1794147388,
  "seeded": true,
  "world": "Theseus"
 }
