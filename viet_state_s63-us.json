@@ -1815,7 +1815,7 @@
   [
    "Gir ten",
    "PL 3",
-   4,
+   5,
    "406730"
   ],
   [
@@ -2691,7 +2691,7 @@
   [
    "Hesitate379",
    "Uong2",
-   34,
+   35,
    "407313"
   ],
   [
@@ -2699,6 +2699,12 @@
    "Hungvuong Plaza",
    8,
    "407398"
+  ],
+  [
+   "Hungvuong Plaza",
+   "Polis",
+   1,
+   "408007"
   ],
   [
    "Hungvuong Plaza",
@@ -4305,7 +4311,7 @@
   [
    "Mini Achilles",
    "Fre9Polis-DaLo2",
-   10,
+   11,
    "404402"
   ],
   [
@@ -4461,7 +4467,7 @@
   [
    "NLTHoang",
    "Spain",
-   30,
+   31,
    "407778"
   ],
   [
@@ -5518,18 +5524,6 @@
    "SH Mode",
    "Polis",
    1,
-   "408007"
-  ],
-  [
-   "SH Mode",
-   "Polis",
-   1,
-   "408007"
-  ],
-  [
-   "SH Mode",
-   "Polis",
-   1,
    "408016"
   ],
   [
@@ -5627,6 +5621,12 @@
    "Sam",
    4,
    "408082"
+  ],
+  [
+   "Sheraton",
+   "Polis",
+   1,
+   "408007"
   ],
   [
    "Sheraton",
@@ -10054,7 +10054,7 @@
    "Smileios",
    8,
    29,
-   42,
+   43,
    "sulfur",
    34
   ],
@@ -11291,7 +11291,7 @@
    35
   ]
  },
- "map_read": 1795107010,
+ "map_read": 1795130810,
  "players": [
   "A34",
   "Age of Empires",
@@ -11444,7 +11444,7 @@
   "tuphuongcan",
   "viet hong"
  ],
- "scan_seen": 1795099810,
+ "scan_seen": 1795123610,
  "seeded": true,
  "world": "Theseus"
 }
