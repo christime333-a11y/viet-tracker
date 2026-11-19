@@ -87,7 +87,7 @@
   [
    "Age of Empires",
    "Minoan",
-   18,
+   19,
    "407213"
   ],
   [
@@ -2283,13 +2283,13 @@
   [
    "Ha Noi",
    "Da2 KL",
-   27,
+   28,
    "407820"
   ],
   [
    "Ha Noi",
    "Nho1 ca",
-   22,
+   23,
    "407825"
   ],
   [
@@ -3537,7 +3537,7 @@
   [
    "Libra1510",
    "QM_MB 1",
-   34,
+   35,
    "409362"
   ],
   [
@@ -3555,7 +3555,7 @@
   [
    "Libra1510",
    "QM_Nho 1",
-   24,
+   25,
    "409366"
   ],
   [
@@ -3567,7 +3567,7 @@
   [
    "Libra1510",
    "QM_SF 1",
-   26,
+   27,
    "409368"
   ],
   [
@@ -3579,7 +3579,7 @@
   [
    "Libra1510",
    "QM_SF 3",
-   26,
+   27,
    "409368"
   ],
   [
@@ -4024,7 +4024,7 @@
    "Melodi",
    "Satoshi Nakamo",
    43,
-   "408688"
+   "408064"
   ],
   [
    "Melodi",
@@ -5542,7 +5542,7 @@
    "SH Mode",
    "Polis",
    1,
-   "408064"
+   "408688"
   ],
   [
    "SSJ Kakarot",
@@ -6093,7 +6093,7 @@
   [
    "TPHCM",
    "Da1 ca",
-   25,
+   26,
    "407817"
   ],
   [
@@ -7498,6 +7498,12 @@
    "Washington",
    "Polis",
    1,
+   "406795"
+  ],
+  [
+   "Washington",
+   "Polis",
+   1,
    "407398"
   ],
   [
@@ -7522,19 +7528,13 @@
    "Washington",
    "Polis",
    1,
-   "408008"
+   "408016"
   ],
   [
    "Washington",
    "Polis",
    1,
-   "408008"
-  ],
-  [
-   "Washington",
-   "Polis",
-   1,
-   "408008"
+   "408016"
   ],
   [
    "Washington",
@@ -8749,90 +8749,6 @@
    "406722"
   ],
   [
-   "spattavn",
-   "Crystal Palace",
-   36,
-   "406795"
-  ],
-  [
-   "spattavn",
-   "Marble I",
-   34,
-   "407337"
-  ],
-  [
-   "spattavn",
-   "Marble II",
-   36,
-   "408019"
-  ],
-  [
-   "spattavn",
-   "Marble III",
-   36,
-   "408019"
-  ],
-  [
-   "spattavn",
-   "Marble IV",
-   35,
-   "407337"
-  ],
-  [
-   "spattavn",
-   "Marble V",
-   30,
-   "407337"
-  ],
-  [
-   "spattavn",
-   "Polis",
-   4,
-   "406561"
-  ],
-  [
-   "spattavn",
-   "Sulfur I",
-   33,
-   "408016"
-  ],
-  [
-   "spattavn",
-   "Sulfur II",
-   29,
-   "407418"
-  ],
-  [
-   "spattavn",
-   "Sulfur III",
-   34,
-   "408016"
-  ],
-  [
-   "spattavn",
-   "Wine I",
-   33,
-   "407390"
-  ],
-  [
-   "spattavn",
-   "Wine II",
-   31,
-   "407390"
-  ],
-  [
-   "spattavn",
-   "Wine III",
-   31,
-   "407335"
-  ],
-  [
-   "spattavn",
-   "Wine IV",
-   31,
-   "407335"
-  ],
-  [
    "thancam0",
    "Ca DC1",
    33,
@@ -9476,7 +9392,6 @@
   "410064",
   "410182",
   "410206",
-  "410389",
   "410395",
   "410465",
   "410558",
@@ -9847,14 +9762,6 @@
    "marble",
    25
   ],
-  "406561": [
-   "Smotios",
-   3,
-   5,
-   23,
-   "marble",
-   23
-  ],
   "406660": [
    "Ghaatia",
    1,
@@ -10125,7 +10032,7 @@
    26,
    35,
    "wine",
-   26
+   27
   ],
   "407209": [
    "Smiachios",
@@ -11384,7 +11291,7 @@
    35
   ]
  },
- "map_read": 1795047843,
+ "map_read": 1795107010,
  "players": [
   "A34",
   "Age of Empires",
@@ -11531,14 +11438,13 @@
   "meoluoidh91",
   "mr0794",
   "sand",
-  "spattavn",
   "thancam0",
   "thanchet",
   "tuantam",
   "tuphuongcan",
   "viet hong"
  ],
- "scan_seen": 1795033443,
+ "scan_seen": 1795099810,
  "seeded": true,
  "world": "Theseus"
 }
