@@ -303,7 +303,7 @@
   [
    "AngelDuck1",
    "_S_",
-   21,
+   22,
    "407213"
   ],
   [
@@ -1437,7 +1437,7 @@
   [
    "FPT",
    "_Pha Le2_",
-   2,
+   3,
    "407813"
   ],
   [
@@ -1815,7 +1815,7 @@
   [
    "Gir ten",
    "PL 3",
-   5,
+   6,
    "406730"
   ],
   [
@@ -8743,6 +8743,90 @@
    "406722"
   ],
   [
+   "spattavn",
+   "Crystal Palace",
+   36,
+   "407359"
+  ],
+  [
+   "spattavn",
+   "Marble I",
+   34,
+   "407337"
+  ],
+  [
+   "spattavn",
+   "Marble II",
+   36,
+   "408019"
+  ],
+  [
+   "spattavn",
+   "Marble III",
+   36,
+   "408019"
+  ],
+  [
+   "spattavn",
+   "Marble IV",
+   35,
+   "407337"
+  ],
+  [
+   "spattavn",
+   "Marble V",
+   30,
+   "407337"
+  ],
+  [
+   "spattavn",
+   "Polis",
+   4,
+   "406561"
+  ],
+  [
+   "spattavn",
+   "Sulfur I",
+   33,
+   "408015"
+  ],
+  [
+   "spattavn",
+   "Sulfur II",
+   29,
+   "407418"
+  ],
+  [
+   "spattavn",
+   "Sulfur III",
+   34,
+   "408015"
+  ],
+  [
+   "spattavn",
+   "Wine I",
+   33,
+   "407390"
+  ],
+  [
+   "spattavn",
+   "Wine II",
+   31,
+   "407390"
+  ],
+  [
+   "spattavn",
+   "Wine III",
+   31,
+   "407335"
+  ],
+  [
+   "spattavn",
+   "Wine IV",
+   31,
+   "407335"
+  ],
+  [
    "thancam0",
    "Ca DC1",
    33,
@@ -9105,7 +9189,7 @@
   [
    "viet hong",
    "new stone-1",
-   38,
+   39,
    "408996"
   ],
   [
@@ -9554,7 +9638,7 @@
    45,
    39,
    "wine",
-   33
+   34
   ],
   "404123": [
    "Sneivios",
@@ -9755,6 +9839,14 @@
    31,
    "marble",
    25
+  ],
+  "406561": [
+   "Smotios",
+   3,
+   5,
+   23,
+   "marble",
+   23
   ],
   "406660": [
    "Ghaatia",
@@ -10171,6 +10263,14 @@
    42,
    "marble",
    38
+  ],
+  "407359": [
+   "Daroos",
+   6,
+   53,
+   1,
+   "crystal",
+   1
   ],
   "407379": [
    "Lukios",
@@ -11184,7 +11284,7 @@
    "Snuxios",
    34,
    9,
-   36,
+   37,
    "wine",
    31
   ],
@@ -11277,7 +11377,7 @@
    35
   ]
  },
- "map_read": 1795179330,
+ "map_read": 1795208251,
  "players": [
   "A34",
   "Age of Empires",
@@ -11424,13 +11524,14 @@
   "meoluoidh91",
   "mr0794",
   "sand",
+  "spattavn",
   "thancam0",
   "thanchet",
   "tuantam",
   "tuphuongcan",
   "viet hong"
  ],
- "scan_seen": 1795168530,
+ "scan_seen": 1795190251,
  "seeded": true,
  "world": "Theseus"
 }
