@@ -2,7 +2,7 @@
  "cities": [
   [
    "A34",
-   "1 Da1 KL y",
+   "1 Da1 y KL",
    27,
    "408455"
   ],
@@ -2546,55 +2546,55 @@
   ],
   [
    "Hercules VN",
-   "Aphrodite Pi AT",
+   "Aphrodite Pir A",
    36,
    "407209"
   ],
   [
    "Hercules VN",
-   "Apollo AT",
+   "Apollo A",
    36,
    "407209"
   ],
   [
    "Hercules VN",
-   "Ares AT",
+   "Ares A",
    36,
    "407209"
   ],
   [
    "Hercules VN",
-   "Artemis AT",
+   "Artemis A",
    36,
    "407209"
   ],
   [
    "Hercules VN",
-   "Athena Bma T",
+   "Athena Bma",
    36,
    "407209"
   ],
   [
    "Hercules VN",
-   "Demeter Wor AT0",
+   "Demeter Wor A",
    36,
    "407209"
   ],
   [
    "Hercules VN",
-   "Hades Emb T",
+   "Hades Emb",
    36,
    "407209"
   ],
   [
    "Hercules VN",
-   "Helios T",
+   "Helios",
    5,
    "407209"
   ],
   [
    "Hercules VN",
-   "Hephaestus AT",
+   "Hephaestus A",
    36,
    "407209"
   ],
@@ -2606,25 +2606,25 @@
   ],
   [
    "Hercules VN",
-   "Hermes Tra T",
+   "Hermes Tra",
    36,
    "407209"
   ],
   [
    "Hercules VN",
-   "Hestia AT",
+   "Hestia A",
    36,
    "407209"
   ],
   [
    "Hercules VN",
-   "PoseidonPort T0",
+   "Poseidon Port",
    36,
    "407209"
   ],
   [
    "Hercules VN",
-   "Zeus Olympus T",
+   "Zeus Olympus",
    36,
    "407209"
   ],
@@ -10022,7 +10022,7 @@
    63,
    38,
    "wine",
-   34
+   35
   ],
   "406880": [
    "Phayiios",
@@ -11377,7 +11377,7 @@
    35
   ]
  },
- "map_read": 1795313746,
+ "map_read": 1795341144,
  "players": [
   "A34",
   "Age of Empires",
@@ -11531,7 +11531,7 @@
   "tuphuongcan",
   "viet hong"
  ],
- "scan_seen": 1795306546,
+ "scan_seen": 1795326744,
  "seeded": true,
  "world": "Theseus"
 }
